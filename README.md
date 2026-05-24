@@ -16,7 +16,7 @@
    - `npm test` (или `node test.js`)
 
 ## Деплой
-Проект доступен по ссылке: [ДЕПЛОЙ(https://fellkings.github.io/vanilla-js-todo/)]
+Проект доступен по ссылке: [ДЕПЛОЙ](https://fellkings.github.io/vanilla-js-todo/)
 
 ## Качество кода
 [![Maintainability](https://img.shields.io/badge/Maintainability-A-success?logo=code-climate&logoColor=white)](https://codeclimate.com/github/Fellkings/vanilla-js-todo)
